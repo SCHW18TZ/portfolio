@@ -187,7 +187,7 @@ const projects = [
       },
     ],
     image: stealth,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/SCHW18TZ/stealth",
   },
 ];
 
