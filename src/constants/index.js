@@ -135,10 +135,10 @@ const experiences = [
     company_name: "hustle-nation",
     icon: github,
     iconBg: "#383E56",
-    date: "March 2022",
+    date: "March 2023",
     points: [
       "I worked as a Website developer.",
-      "My role was to develop the website handle the api calls, manage the database and increase conversions.",
+      "My role was to develop the website handle the API calls, manage the database and increase conversions.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Database design and development.",
     ],
