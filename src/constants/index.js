@@ -118,14 +118,27 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Wordpress Developer",
+    title: "Website Developer",
     company_name: "HomeZoneIndia",
     icon: github,
     iconBg: "#383E56",
     date: "March 2022",
     points: [
-      "I worked as a wordpress developer.",
+      "I worked as a Website developer.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Database design and development.",
+    ],
+  },
+  {
+    title: "Website Developer",
+    company_name: "hustle-nation",
+    icon: github,
+    iconBg: "#383E56",
+    date: "March 2022",
+    points: [
+      "I worked as a Website developer.",
+      "My role was to develop the website handle the api calls, manage the database and increase conversions.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Database design and development.",
     ],
