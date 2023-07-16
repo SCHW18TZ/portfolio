@@ -119,7 +119,7 @@ const technologies = [
 const experiences = [
   {
     title: "Website Developer",
-    company_name: "HomeZoneIndia",
+    company_name: "HomeZone",
     icon: github,
     iconBg: "#383E56",
     date: "March 2022",
