@@ -55,7 +55,7 @@ const ComputersCanvas = () => {
 
   return (
     <Canvas
-      pointerEvents:'none'
+      
       frameloop='demand'
       shadows
       dpr={[1, 2]}
