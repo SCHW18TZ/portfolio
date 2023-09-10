@@ -168,16 +168,16 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like he does.",
-    name: "hoga kuch",
+    name: "Aakash",
     designation: "CEO",
-    company: "Some Company",
+    company: "HustleNation",
   },
   {
     testimonial:
       "After he optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "jadugar",
-    designation: "CTO",
-    company: "456 Enterprises",
+    name: "Manoy",
+    designation: "CMO",
+    company: "HomeZoneIndia",
   },
 ];
 
