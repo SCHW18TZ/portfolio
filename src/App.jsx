@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 
 const App = () => {
+  const [Ip, setIp] = useState("Fething results, please wait...");
 
   const getIp = async () => {
     try {
